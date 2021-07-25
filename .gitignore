@@ -96,4 +96,3 @@ pip-selfcheck.json
 .env
 
 *.ipynb_checkpoints
-*.txt
